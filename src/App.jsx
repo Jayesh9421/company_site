@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Header from './sections/Header'
 import Hero from './sections/Hero'
 import About from './sections/About'
@@ -10,6 +10,10 @@ import Footer from './sections/Footer'
 import Contacts from './sections/Contacts'
 
 const App = () => {
+
+
+  
+
   return (
     <>
     <Header/>

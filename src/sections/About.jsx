@@ -26,7 +26,7 @@ const About = () => {
           variants={slideUpVariants}
           className="text-white uppercase text-[40px] font-bold"
         >
-          Prime Construction
+          RangRagini
         </motion.h1>
         <div className="w-[120px] h-[6px] bg-yellow-500"></div>
         <p className="text-lg lg:text-xl italic text-gray-50 mt-[20px]">
